@@ -1,0 +1,1 @@
+g++ -o crc.exe crc.cpp
